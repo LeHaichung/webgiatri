@@ -86,7 +86,7 @@
 									class="btn btn-primary btn-lg btn-block login-button">Register</button>
 							</div>
 							<div class="login-register">
-								<a href="Layer.jsp">Login</a>
+								<a href="login.jsp">Login</a>
 							</div>
 						</form>
 					</div>

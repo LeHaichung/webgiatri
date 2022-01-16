@@ -96,7 +96,7 @@
 						<span class="input-group-addon"><span
 							class="glyphicon glyphicon-user"></span></span> <input type="text"
 							class="form-control" name="Username" id="Username"
-							placeholder="Requested Username" required value="User">
+							placeholder="User">
 					</div>
 				</div>
 				<div class="form-group">
@@ -105,25 +105,16 @@
 						<span class="input-group-addon"><span
 							class="glyphicon glyphicon-envelope"></span></span> <input type="text"
 							class="form-control" name="Email" id="Email"
-							placeholder="Requested Email" required
-							value="Sean.Wessell@gmail.com"></div>
+							placeholder="Sean.Wessell@gmail.com"></div>
 							
 				</div>
-				<div class="form-group">
-					<label>ID User</label>
-					<div class="input-group">
-						<span class="input-group-addon"><span
-							class="glyphicon glyphicon-user"></span></span> <input type="text"
-							class="form-control" name="Username" id="Username"
-							placeholder="Requested Username" required value="ID">
-					</div>
-				</div>
+				
 				<label>OTP</label>
 				<div class="input-group">
 					<span class="input-group-addon"><span
 						class="glyphicon glyphicon-user"></span></span> <input type="text"
 						class="form-control" name="Username" id="Username"
-						placeholder="Requested Username" required value="OTP">
+						placeholder="OTP">
 				</div>
 			</div>
 
