@@ -13,7 +13,164 @@
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
 <script
 	src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-	<link rel="stylesheet" href="./style.css">
+	<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+
+	<style>
+		* {
+	font-family: arial;
+}
+
+nav {
+	background-color: #4FD9A7;
+}
+.top li:hover,.top span:hover{
+	color: black;
+	font-weight: bold;
+	font-size: 1rem;
+}
+.search {
+	background-color: #4FD9A7;
+	text-align: center;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar-nav li:hover{
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.path{
+    margin-top:2rem;   
+}
+
+.path ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.path ul li a{
+    text-decoration: none;
+    color: #333;
+}
+.path ul li a.active{
+    color: #4FD9A7;
+}
+
+.tittle{
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.source{
+    color: #333;
+    font-size:  12px;
+}
+
+.text-content{
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+}
+.img{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.img img{
+    width: 100%;
+}
+
+.comment{
+    padding: 10px;
+    background-color: #f5f5f5;
+    margin: 10px 0;
+}
+.comment-head{
+    border-bottom: 1px solid #ddd;
+}
+.comment-head h2{
+    padding-left: 10px;
+    border-left: 5px solid #4FD9A7;
+}
+
+.comment-body{
+    margin-top: 10px;
+    padding:20px;
+}
+.comment-body-write img{
+    width: 80px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.comment-body-write input{
+    width: calc(100% - 100px);
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.comment-body-post{
+    margin-top: 30px;
+}
+
+.comment-body-post-user img{
+    width: 30px;
+    border-radius:50px 50px 50px 50px;
+    opacity: 0.8;
+}
+
+.comment-body-post p{
+    margin-left:30px;
+}
+
+.foot-search{
+    display: flex;
+    margin: 20px 0;
+    padding: 10px;
+}
+.foot-search-img{
+    width:20%;
+}
+.foot-search-img img{
+    width: 100%;
+}
+.foot-search-img-imput{
+    flex-grow: 1;
+    padding: 10px;
+    background-color: #4FD9A7;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.foot-search-img-imput input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.foot-search-img-imput i{
+
+    font-size: 1.5rem;
+    position: absolute;
+    right: 20px;
+}
+
+	</style>
 </head>
 <body>
 	<div class="container-fluid">
@@ -38,7 +195,6 @@
 					<a class="navbar  col-md-2 col-sm-3 col-3" style="text-decoration: none;"><span
 						class="ms-auto " style="color: black;"><i
 							class="fas fa-user"></i> Đăng nhập</span></a>
-
 				</div>
 
 				<nav class="mt-1 py-1 navbar navbar-dark navbar-expand-md ">
