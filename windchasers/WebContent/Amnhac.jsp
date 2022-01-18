@@ -1,4 +1,5 @@
-<%@ page pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=utf-8"
+	pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,15 +90,15 @@ a {
 					</button>
 					<div class=" navbar-collapse" id="main-menu">
 						<ul class="navbar-nav mr-auto " style="font-weight: bolder;">
-							<li class="nav-item"><a class="active nav-link" href=""
+							<li class="nav-item"><a class="active nav-link" href="index.jsp"
 								style="color: black;">Trang chủ</a></li>
-							<li class="nav-item"><a class="nav-link" href=""
+							<li class="nav-item"><a class="nav-link" href="Dienanh.jsp"
 								style="color: black;">Điện ảnh - Truyền hình</a></li>
 							<li class="nav-item"><a class="nav-link" href=""
 								style="color: black;">Âm nhạc</a></li>
-							<li class="nav-item"><a class="nav-link" href=""
+							<li class="nav-item"><a class="nav-link" href="game.jsp"
 								style="color: black;">Game</a></li>
-							<li class="nav-item"><a class="nav-link" href=""
+							<li class="nav-item"><a class="nav-link" href="truyen.jsp"
 								style="color: black;">Truyện tranh</a></li>
 						</ul>
 					</div>
@@ -105,7 +106,7 @@ a {
 			</div>
 			<div>
 				<p style="font-size: 15px; font-weight: bolder;" class="mt-2">
-					<a href="#">Trang Chủ</a> > Âm nhạc
+					<a href="index.jsp">Trang Chủ</a> > Âm nhạc
 				</p>
 
 
@@ -286,7 +287,7 @@ a {
 									style="color: #1a8c71; font-size: 13px">Liên hệ quảng cáo</h5>
 
 								<ul class="mb-2" style="font-size: 13px; list-style-type: none">
-									<li class="mb-2"><a href="#!" class="text-black"
+									<li class="mb-2"><a href="gioithieu.jsp" class="text-black"
 										style="text-decoration: none">Thông tin giới thiệu </a></li>
 									<li class="mb-2"><a href="gioithieu.jsp" class="text-black"
 										style="text-decoration: none"> Liên hệ gmail :
