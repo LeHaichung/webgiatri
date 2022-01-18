@@ -66,11 +66,11 @@ a {
 		<div class="container">
 			<div class="top">
 				<div class="row mt-1 py-1 navbar navbar-expand-md">
-					<div class="logo col-md-2 col-sm-2 col-3">
+					<div class="logo col-md-2 col-sm-3 col-4">
 						<img class="navbar-brand" height="40"
 							src="img/505b9d35b08f7ad1239e.jpg">
 					</div>
-					<form class="d-flex col-md-8 col-sm-7 col-6" action="">
+					<form class="d-flex col-md-8 col-sm-6 col-5" action="">
 						<div class="input-group">
 							<input type="text" class="form-control"
 								placeholder="Nhập nội dung cần tìm kiếm">
@@ -114,13 +114,13 @@ a {
 			<div class="header mt-3 row">
 				<a
 					href="https://truyensieuhay.com/tin-tuc/tin-tuc-truyen-tranh/rikei-ga-koi-ni-ochita-no-de-shoumei-shite-mita!---cong-thuc-cua-tinh-yeu!.html"
-					class="col-md-7 col-sm-7 col-12 nav-link"> <img
+					class="col-md-7 col-sm-12 col-12 nav-link"> <img
 					class="rounded img-fluid" alt=""
 					src="img/e8ce0f06415c4cda_3dc249ef61724f60_21647515712228364185710.jpg">
 					<span style="font-size: 20px"> RIKEI GA KOI NI OCHITA NO DE
 						SHOUMEI SHITE MITA! - CÔNG THỨC CỦA TÌNH YÊU!</span>
 				</a>
-				<div class="col-md-5 col-sm-5 col-12">
+				<div class="col-md-5 col-sm-12 col-12">
 					<div class="row mt-1">
 						<a
 							href="https://tinanime.com/boku-no-hero-academia-bi-tri-hoan-do-bao-anime-se-dung-lai-o-tap-thu-25"

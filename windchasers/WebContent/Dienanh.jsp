@@ -64,11 +64,11 @@ a {
 		<div class="container">
 			<div class="top">
 				<div class="row mt-1 py-1 navbar navbar-expand-md">
-					<div class="logo col-md-2 col-sm-2 col-3">
+					<div class="logo col-md-2 col-sm-3 col-4">
 						<img class="navbar-brand" height="40"
 							src="img/505b9d35b08f7ad1239e.jpg">
 					</div>
-					<form class="d-flex col-md-8 col-sm-7 col-6" action="">
+					<form class="d-flex col-md-8 col-sm-6 col-5" action="">
 						<div class="input-group">
 							<input type="text" class="form-control"
 								placeholder="Nhập nội dung cần tìm kiếm">
@@ -115,12 +115,12 @@ a {
 			<div class="header mt-3 row">
 				<a
 					href="https://saostar.vn/dien-anh/dinh-tu-phan-minh-huyen-ngot-ngao-ngoai-doi-gay-tiec-nuoi-202112181554089244.html"
-					class="col-md-7 col-sm-7 col-12 nav-link"> <img
+					class="col-md-7 col-sm-12 col-12 nav-link"> <img
 					class="rounded img-fluid" width="1100" alt=""
 					src="img/saostar-2kcn4wpwaduxz8k5.jpg"> <span
 					style="font-size: 20px"> Đình Tú - Phan Minh Huyền ngọt tựa kẹo bông ngoài đời gây ...</span>
 				</a>
-				<div class="col-md-5 col-sm-5 col-12">
+				<div class="col-md-5 col-sm-12 col-12">
 										<div class="row mt-1">
 						<a
 							href="https://zingnews.vn/bom-tan-trieu-usd-cua-chau-tinh-tri-co-thien-lac-bi-hat-hui-post1284027.html"
