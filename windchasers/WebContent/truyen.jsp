@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Điện ảnh -Truyền hình</title>
+<title>Truyện tranh</title>
 <link rel='stylesheet'
 	href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
 <link
@@ -45,6 +45,8 @@ span:hover, .mid span:hover {
 
 a {
 	text-decoration: none;
+	width: 300;
+	height: 400;
 }
 
 .right span {
@@ -93,13 +95,13 @@ a {
 						<ul class="navbar-nav mr-auto " style="font-weight: bolder;">
 							<li class="nav-item"><a class="active nav-link" href="index.jsp"
 								style="color: black;">Trang chủ</a></li>
-							<li class="nav-item"><a class="nav-link" href=""
+							<li class="nav-item"><a class="nav-link" href="Dienanh.jsp"
 								style="color: black;">Điện ảnh - Truyền hình</a></li>
 							<li class="nav-item"><a class="nav-link" href="amnhac.jsp"
 								style="color: black;">Âm nhạc</a></li>
 							<li class="nav-item"><a class="nav-link" href="game.jsp"
 								style="color: black;">Game</a></li>
-							<li class="nav-item"><a class="nav-link" href="truyen.jsp"
+							<li class="nav-item"><a class="nav-link" href=""
 								style="color: black;">Truyện tranh</a></li>
 						</ul>
 					</div>
@@ -107,44 +109,46 @@ a {
 			</div>
 			<div>
 				<p style="font-size: 15px; font-weight: bolder;" class="mt-2">
-					<a href="#">Trang Chủ</a> > Điện ảnh-Truyền Hình
-				</p>
-
-
+					<a href="#">Trang Chủ</a> > Truyện tranh
 			</div>
 			<div class="header mt-3 row">
 				<a
-					href="https://saostar.vn/dien-anh/dinh-tu-phan-minh-huyen-ngot-ngao-ngoai-doi-gay-tiec-nuoi-202112181554089244.html"
+					href="https://truyensieuhay.com/tin-tuc/tin-tuc-truyen-tranh/rikei-ga-koi-ni-ochita-no-de-shoumei-shite-mita!---cong-thuc-cua-tinh-yeu!.html"
 					class="col-md-7 col-sm-7 col-12 nav-link"> <img
-					class="rounded img-fluid" width="1100" alt=""
-					src="img/saostar-2kcn4wpwaduxz8k5.jpg"> <span
-					style="font-size: 20px"> Đình Tú - Phan Minh Huyền ngọt tựa kẹo bông ngoài đời gây ...</span>
+					class="rounded img-fluid" alt=""
+					src="img/e8ce0f06415c4cda_3dc249ef61724f60_21647515712228364185710.jpg">
+					<span style="font-size: 20px"> RIKEI GA KOI NI OCHITA NO DE
+						SHOUMEI SHITE MITA! - CÔNG THỨC CỦA TÌNH YÊU!</span>
 				</a>
 				<div class="col-md-5 col-sm-5 col-12">
-										<div class="row mt-1">
+					<div class="row mt-1">
 						<a
-							href="https://zingnews.vn/bom-tan-trieu-usd-cua-chau-tinh-tri-co-thien-lac-bi-hat-hui-post1284027.html"
+							href="https://tinanime.com/boku-no-hero-academia-bi-tri-hoan-do-bao-anime-se-dung-lai-o-tap-thu-25"
+							class="col-md-6 col-sm-6 col-6 nav-link"><img
+							class="rounded img-fluid " alt="" style="height: 280px"
+							src="img/4372ad6b34309605_29b606839c05fee6_46752815708881754185710.jpg ">
+							<span>BOKU NO HERO ACADEMIA BỊ TRÌ HOÃN DO BÃO - ANIME
+								SẼ...</span> </a> <a
+							href="https://truyensieuhay.com/tin-tuc/thu-vien-anh/[artwork]-bau-troi-he!---nhin-len-de-thay-the-gioi-ruc-ro-biet-bao.html"
 							class="col-md-6 col-sm-6 col-6 nav-link"><img
 							class="rounded img-fluid" alt="" style="height: 280px"
-							src="img/iGLh0f6Dhe58TH_8eKCGnSKBpWmixN9RydxZ0cncWc.jpg "> <span>Bom tấn triệu USD của Châu Tinh Trì, Cổ Thiên Lạc bị hắt hủi...</span> </a> <a
-							href="https://phunuvietnam.vn/binh-yen-voi-nhung-dieu-gian-di-2021121421452832.htm"
-							class="col-md-6 col-sm-6 col-6 nav-link"><img
-							class="rounded img-fluid" alt="" style="height: 280px"
-							src="img/ff989a472905c05b9914.jpg">
-							<span>'Cuộc sống đơn giản ở Kamisari' - Bình yên với những điều giản dị... </span> </a>
+							src="img/04efc132219efce5_a3c9bb1edeaa8249_10947215963805483185710.jpg">
+							<span>[ARTWORK] BẦU TRỜI HÈ! - NHÌN LÊN ĐỂ THẤY THẾ
+								GIỚI... </span> </a>
 					</div>
 
 					<div class="row mt-1">
 						<a
-							href="https://snews24h.net/hoa-minzy-meu-mao-vi-bi-diem-my-9x-de-khong-thuong-tiec-trong-running-man-vietnam/"
+							href="https://game4v.com/one-piece-1006-dich-benh-lan-rong-chopper-quyet-tam-tao-ra-thuoc-chua-835262.g4v"
+							class="col-md-6 col-sm-6 col-6 nav-link"><img
+							class="rounded img-fluid " alt="" style="height: 280px"
+							src="img/1.jpg "> <span>One Piece 1006: Dịch bệnh
+								lan rộng, Chopper quyết tâm tạo ra thuốc chữa.</span> </a> <a
+							href="https://gamek.vn/boruto-4-dieu-cam-ky-doi-voi-hokage-de-that-naruto-du-muon-lam-cung-luc-bat-tong-tam-20220115150357804.chn"
 							class="col-md-6 col-sm-6 col-6 nav-link"><img
 							class="rounded img-fluid" alt="" style="height: 280px"
-							src="img/9c7789b33af1d3af8ae0.jpg "> <span>Lee Jung Jae được vinh danh ngôi sao đột phá của năm 2021...</span> </a> <a
-							href="https://phunuvietnam.vn/binh-yen-voi-nhung-dieu-gian-di-2021121421452832.htm"
-							class="col-md-6 col-sm-6 col-6 nav-link"><img
-							class="rounded img-fluid" alt="" style="height: 280px"
-							src="img/724f6b96d8d4318a68c5.jpg">
-							<span>Hòa Minzy mếu máo vì bị Diễm My 9X đè không thương tiếc trong 'Running Man Vietnam' </span> </a>
+							src="img/4.jpg"> <span>Boruto: 4 điều cấm kỵ đối với
+								Hokage đệ thất, Naruto dù muốn làm cũng "lực bất tòng tâm" </span> </a>
 					</div>
 				</div>
 			</div>
@@ -155,118 +159,105 @@ a {
 						<hr>
 						<div class="row m-1">
 							<div class="col-md-5 col-sm-7 col-5">
-								<img class="rounded img-fluid" alt="" style="height: 360px;width: 525px"
-									src="img/33e67d3ece7c27227e6d.jpg">
+								<img class="rounded img-fluid" alt="" style="height: 360px"
+									src="img/photo-1-1573145606468960101345.jpg">
 							</div>
 
 							<div class="col-md-7 col-sm-5 col-7">
 								<a
-									href="https://afamily.vn/thuong-ngay-nang-ve-hau-truong-kho-ngo-cua-canh-quay-day-cam-xuc-khi-doan-quoc-dam-om-ngoc-huyen-20211218120127522.chn"
-									class=""> <span class="p-0">Thương ngày nắng về: Hậu trường khó ngờ của cảnh quay đầy cảm xúc khi Doãn Quốc Đam ôm Ngọc Huyền</span>
+									href="https://gamek.vn/one-punch-man-nhung-ten-trum-tung-khien-thanh-phong-dung-hon-mot-dam-de-ha-guc-20191107235939532.chn"
+									class=""> <span class="p-0">One Punch Man: Những Tên
+										Trùm Từng Khiến "Thánh Phồng" Dùng Hơn Một Đấm Để Hạ Gục</span>
 								</a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình</p>
-								<p>Thương ngày nắng về tập 15 lên sóng tối thứ Tư vừa qua đã mang tới nhiều cảnh phim gây xúc động cho khán giả. Đáng chú ý trong tập này có cảnh Phong (Doãn Quốc Đam) ...</p>
-							</div>
-						</div>
-
-						<div class="row m-1">
-							<div class="col-md-5 col-sm-7 col-5">
-								<img class="rounded img-fluid" alt="" style="height: 360px"
-									src="img/tai-tu-phuong-the-ngoc-qua-doi-o-tuoi-80-fd2-6215952-ngoisaovn-w1024-h670.jpg">
-							</div>
-
-							<div class="col-md-7 col-sm-5 col-7">
-								<ahref
-									="https://dantri.com.vn/giai-tri/tai-tu-phuong-the-ngoc-tran-tung-dung-qua-doi-vi-bao-benh-20211218072632278.htm"
-									class="">
-								<span class="p-0">Tài tử 'Phương Thế Ngọc' Trần Tùng Dũng
-									qua...</span> </a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình</p>
-								<p>Ngày 17/12, trang Sina đưa tin nam diễn viên Trần Tùng
-									Dũng qua đời ở tuổi 80. Ông từng...</p>
-							</div>
-						</div>
-						<div class="row m-1">
-							<div class="col-md-5 col-sm-7 col-5">
-								<img class="rounded img-fluid" alt="" style="height: 360px"
-									src="img/b154397fa63c4f62162d.jpg">
-							</div>
-
-							<div class="col-md-7 col-sm-5 col-7">
-								<a
-									href="https://saostar.vn/dien-anh/top-nhung-bo-phim-trung-co-kinh-phi-thap-nhung-chat-luong-cao-202112181303442454.html"
-									class=""> <span class="p-0">Top phim Hoa ngữ có kinh phí thấp nhưng chất lượng cao: 'Cẩm y chi hạ', 'Sơn hà lệnh' mãi đỉnh</span>
-								</a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình </p>
-								<p>Có những bộ phim Trung dù được đầu tư kinh phí khủng, dàn diễn viên thuộc hạng A nhưng vẫn "flop" như thường. Ngược lại, có những phim dù kinh phí ít ỏi, kĩ xảo ...</p>
-							</div>
-						</div>
-
-						<div class="row m-1">
-							<div class="col-md-5 col-sm-7 col-5">
-								<img class="rounded img-fluid" alt="" style="height: 360px"
-									src="img/d17b90bc23fecaa093ef.jpg">
-							</div>
-
-							<div class="col-md-7 col-sm-5 col-7">
-								<a
-									href="https://saostar.vn/dien-anh/nu-bac-si-tam-ly-ket-bi-che-du-doi-bi-dieu-tra-vi-sai-chuyen-mon-202112181303163003.html"
-									class=""> <span class="p-0">'Nữ bác sĩ tâm lý' kết thúc trong sự chê bai của khán giả, bị điều tra vì sai yếu tố tâm lý</span>
-								</a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình</p>
-								<p>Trong các dự án lên sóng cuối năm 2021, 'Nữ bác sĩ tâm lý' (The Psychologist) là một trong dự án được kỳ vọng nhất, với đội ngũ chất lượng cùng dàn sao 'đỉnh lưu' nổi tiếng. Tuy nhiên, ...</p>
+								<p class="genre p-1">Truyện tranh</p>
+								<p>Qua hơn 120 chương truyện và 2 mùa anime thì đây được coi
+									là những đối thủ ít nhạt nhẽo nhất khi đấu với Saitama. Đúng
+									với tiêu đề One Punch man, Saitama quá mạnh để có thể...</p>
 							</div>
 						</div>
 
 						<div class="row m-1">
 							<div class="col-md-5 col-sm-7 col-5">
 								<img class="rounded img-fluid" alt="" style="height: 360px;width: 525px"
-									src="img/1730eff05cb2b5ececa3.jpg">
+									src="img/0504218c1f3cd74e_e39015e0bce2c010_18896415712240325185710.jpg">
 							</div>
 
 							<div class="col-md-7 col-sm-5 col-7">
 								<a
-									href="https://vietnamnet.vn/vn/giai-tri/sach/mariah-carey-viet-hoi-ky-ke-cau-chuyen-chan-that-ve-cuoc-doi-minh-802154.html"
-									class=""> <span class="p-0">Diva Mariah Carey viết hồi ký kể chuyện đời mình</span>
+									href="https://tinanime.com/anime-va-doi-thuc-phan-31-nhu-vay-da-du-giong-nhau-chua"
+									class=""> <span class="p-0">ANIME VÀ ĐỜI THỰC [PHẦN
+										31] - NHƯ VẬY ĐÃ ĐỦ GIỐNG NHAU CHƯA?</span>
 								</a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình</p>
-								<p>Biểu tượng toàn cầu, ca sĩ, nhạc sĩ, nhà sản xuất, diễn viên, người mẹ, con gái, em gái, người kể chuyện và nghệ sĩ đoạt nhiều giải thưởng, tất cả hợp lại thành một Mariah Carey để kể câu....</p>
+								<p class="genre p-1">Truyện tranh</p>
+								<p>Thế giới anime và thế giới thực là hai thế giới vận hành
+									song song với nhau, có lẽ vậy. Nhưng cũng có những lúc chúng
+									giống nhau y như đúc. Nhờ những phân cảnh đó, nó đã làm cho thế
+									giới anime sống động và chân ..</p>
 							</div>
 						</div>
-
 						<div class="row m-1">
 							<div class="col-md-5 col-sm-7 col-5">
-								<img class="rounded img-fluid" alt="" style="height: 360px;width: 525px"
-									src="img/2359_Teaser_Poster.jpg">
+								<img class="rounded img-fluid" alt="" style="height: 360px"
+									src="img/-1609269691393723701557.jpeg">
 							</div>
 
 							<div class="col-md-7 col-sm-5 col-7">
 								<a
-									href="https://congthuong.vn/phim-truyen-hinh-dau-tien-do-k-san-xuat-me-ac-ma-cha-thien-su-chinh-thuc-len-song-169436.html"
-									class=""> <span class="p-0">Phim truyền hình đầu tiên do K+ sản xuất - “Mẹ ác ma, ....</span>
+									href="https://truyensieuhay.com/tin-tuc/tin-tuc-truyen-tranh/7-con-quai-vat-manh-nhat-trong-sweet-home---bo-webtoon-duoc-netflix-chuyen-the-thanh-phim.html"
+									class=""> <span class="p-0">7 Con Quái Vật Mạnh Nhất
+										Trong Sweet Home - Bộ Webtoon Được Netflix Chuyển Thể Thành
+										Phim</span>
 								</a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình</p>
-								<p>Sau nhiều thông tin được hé lộ trên truyền thông trước đó, bộ phim truyền hình “Mẹ ác ma, cha thiên sứ” chính thức ấn định lịch lên sóng từ ngày 27/12/2021</p>
+								<p class="genre p-1">Truyện tranh</p>
+								<p>CKhông giống truyện tranh zombie thông thường, Sweet Home
+									là bộ webtoon lấy bối cảnh hậu tận thế nhưng là với những con
+									quái vật chỉ có trong ác mộng.</p>
 							</div>
 						</div>
 
 						<div class="row m-1">
 							<div class="col-md-5 col-sm-7 col-5">
 								<img class="rounded img-fluid" alt="" style="height: 360px"
-									src="img/724f6b96d8d4318a68c5.jpg">
+									src="img/utt1-16094903306751915194461.jpg">
 							</div>
 
 							<div class="col-md-7 col-sm-5 col-7">
 								<a
-									href="https://baomoi.com/hoa-minzy-meu-mao-vi-bi-diem-my-9x-de-khong-thuong-tiec-trong-running-man-vietnam/c/41236737.epi"
-									class=""> <span class="p-0">Hòa Minzy mếu máo vì bị Diễm My 9X đè không thương tiếc trong 'Running Man Vietnam'</span>
+									href="https://truyensieuhay.com/tin-tuc/tin-tuc-truyen-tranh/dragon-ball-super-nhung-ly-do-de-fan-hy-vong-granola-ke-song-sot-se-la-arc-hap-dan-nhat-tu-truoc-den-nay.html"
+									class=""> <span class="p-0">Dragon Ball Super: Những
+										Lý Do Để Fan Hy Vọng "Granola Kẻ Sống Sót" Sẽ Là Arc Hấp Dẫn
+										Nhất Từ Trước Đến Nay?</span>
 								</a> <br>
-								<p class="genre p-1">Điện ảnh-Truyền hình</p>
-								<p>Ở tuần trước, đội Vàng của Jun Phạm và Thúy Ngân đang chiếm nhiều ưu thế sau khi chiến thắng 2 phần chơi. Bên cạnh đó, đội Đen của Liên Bỉnh Phát – Diễm My 9X là đối thủ không thể xem thường. Được mệnh dạnh là nữ thần sức mạnh của "Running Man Vietnam", tới nay Thúy Ngân .....</p>
+								<p class="genre p-1">Truyện tranh</p>
+								<p>Nếu như làm được 3 điều này thì "Granola kẻ sống sót" sẽ
+									là Arc hấp dẫn nhất từ trước đến nay trong Dragon Ball
+									Super.... Năm 2020 đã khép lại với một Moro Arc được đánh giá
+									là tương đối thành công nhưng còn khá nhiều sạn của Dragon Ball
+									Super. Chính vì vậy mà ngay từ kh</p>
 							</div>
 						</div>
 
-						
+						<div class="row m-1">
+							<div class="col-md-5 col-sm-7 col-5">
+								<img class="rounded img-fluid" alt="" style="height: 360px;width: 525px"
+									src="img/b3cc2294a73c8dd5_070a8b6456bdbae4_11134515708925826185710.jpg">
+							</div>
+
+							<div class="col-md-7 col-sm-5 col-7">
+								<a
+									href="https://tinanime.com/oda-cinnamon-nobunaga-samurai-chuyen-sinh-thanh-cho"
+									class=""> <span class="p-0">ODA CINNAMON NOBUNAGA -
+										SAMURAI... CHUYỂN SINH THÀNH CHÓ! </span>
+								</a> <br>
+								<p class="genre p-1">Truyện tranh</p>
+								<p>Mới đây, trang web chính thức cho bộ anime truyền hình
+									Oda Shinamon Nobunaga (Oda Cinnamon Nobunaga) được dựa trên
+									manga cùng tên của tác giả Una Megurogawa đã tiết lộ...</p>
+							</div>
+						</div>
+
+
+
 
 					</div>
 
@@ -322,9 +313,9 @@ a {
 								<ul class="mb-2" style="font-size: 13px; list-style-type: none">
 									<li class="mb-2"><a href="#!" class="text-black"
 										style="text-decoration: none">Thông tin giới thiệu </a></li>
-									<li class="mb-2"><a href="gioithieu.jsp" class="text-black"
-										style="text-decoration: none"> Liên hệ gmail :
-											windcharses@gmail.com</a></li>
+									<li class="mb-2"><a href="gioithieu.jsp"
+										class="text-black" style="text-decoration: none"> Liên hệ
+											gmail : windcharses@gmail.com</a></li>
 								</ul>
 							</div>
 							<!--Grid column-->
